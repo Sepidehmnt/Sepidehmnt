@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Frontend programming
 - 💕 I'm looking to collaborate on Frontend projects
 -  📫 How to reach me:
-   sepidehmontazer@hotmail.com
+   sepidehmnt1996@gmail.com
 
